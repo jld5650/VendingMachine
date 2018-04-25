@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<ArrayOfSnack xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Snack>
+    <name>Lays</name>
+    <price>0.45</price>
+    <id>A1</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\lays-potato-chips-regular.jpg</img>
+    <flavor>d</flavor>
+  </Snack>
+  <Snack>
+    <name>Doritos</name>
+    <price>0.45</price>
+    <id>A2</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\doritos.jpg</img>
+  </Snack>
+  <Snack>
+    <name>Snyders</name>
+    <price>0.45</price>
+    <id>A3</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\snyders.jpg</img>
+  </Snack>
+  <Snack>
+    <name>Combos</name>
+    <price>0.45</price>
+    <id>B4</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\combos.jpg</img>
+  </Snack>
+  <Snack>
+    <name>Herrs</name>
+    <price>0.45</price>
+    <id>B5</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\herrs.jpg</img>
+  </Snack>
+  <Snack>
+    <name>Cheetos</name>
+    <price>0.45</price>
+    <id>B6</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\cheetos.jpg</img>
+  </Snack>
+  <Snack>
+    <name>CheezIt</name>
+    <price>0.45</price>
+    <id>C7</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\cheezit.jpeg</img>
+  </Snack>
+  <Snack>
+    <name>Sun Chips</name>
+    <price>0.45</price>
+    <id>C8</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\sunchips.jpg</img>
+  </Snack>
+  <Snack>
+    <name>Butter Scotch Krimpets</name>
+    <price>0.95</price>
+    <id>C9</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\krimpets.jpg</img>
+  </Snack>
+  <Snack>
+    <name>Chips Ahoy Mini</name>
+    <price>0.95</price>
+    <id>D1</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\chipsahoy.jpg</img>
+  </Snack>
+</ArrayOfSnack>

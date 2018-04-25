@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfCandy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Candy>
+    <name>Swedish Fish</name>
+    <price>0.95</price>
+    <id>C9</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\fish.jpg</img>
+    <inventory>16</inventory>
+    <type>Gummy</type>
+  </Candy>
+  <Candy>
+    <name>Hershey</name>
+    <price>0.95</price>
+    <id>C0</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\hershey.png</img>
+    <inventory>16</inventory>
+    <type>Chocoloate</type>
+  </Candy>
+  <Candy>
+    <name>Skittles</name>
+    <price>0.95</price>
+    <id>D1</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\skittles.jpg</img>
+    <inventory>16</inventory>
+    <type>Bite-Size</type>
+  </Candy>
+  <Candy>
+    <name>Reese's</name>
+    <price>0.85</price>
+    <id>D2</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\reeses.jpg</img>
+    <inventory>16</inventory>
+    <type>Chocolate</type>
+  </Candy>
+  <Candy>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Candy>
+  <Candy>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Candy>
+  <Candy>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Candy>
+  <Candy>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Candy>
+  <Candy>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Candy>
+  <Candy>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Candy>
+</ArrayOfCandy>

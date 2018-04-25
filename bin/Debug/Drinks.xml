@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfDrinks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Drinks>
+    <name>Pepsi</name>
+    <price>0.85</price>
+    <id>B5</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\pepsi.jpg</img>
+    <inventory>16</inventory>
+    <type>Soda</type>
+  </Drinks>
+  <Drinks>
+    <name>Coca Cola</name>
+    <price>0.85</price>
+    <id>B6</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\coke.jpg</img>
+    <inventory>16</inventory>
+    <type>Soda</type>
+  </Drinks>
+  <Drinks>
+    <name>Pepsi</name>
+    <price>0.85</price>
+    <id>B7</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\gatorade.jpg</img>
+    <inventory>16</inventory>
+    <type>Juice</type>
+  </Drinks>
+  <Drinks>
+    <name>Aquafina</name>
+    <price>0.85</price>
+    <id>C8</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\water.jpg</img>
+    <inventory>16</inventory>
+    <type>Water</type>
+  </Drinks>
+  <Drinks>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Drinks>
+  <Drinks>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Drinks>
+  <Drinks>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Drinks>
+  <Drinks>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Drinks>
+  <Drinks>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Drinks>
+  <Drinks>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Drinks>
+</ArrayOfDrinks>

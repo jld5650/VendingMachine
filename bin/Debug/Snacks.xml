@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<ArrayOfSnack xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Snack>
+    <name>Lays</name>
+    <price>0.45</price>
+    <id>A1</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\lays-potato-chips-regular.jpg</img>
+    <inventory>1</inventory>
+    <type>Chips</type>
+  </Snack>
+  <Snack>
+    <name>Doritos</name>
+    <price>0.45</price>
+    <id>A2</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\doritos.jpg</img>
+    <inventory>16</inventory>
+  </Snack>
+  <Snack>
+    <name>Snyders</name>
+    <price>0.45</price>
+    <id>A3</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\snyders.jpg</img>
+    <inventory>16</inventory>
+  </Snack>
+  <Snack>
+    <name>Combos</name>
+    <price>0.45</price>
+    <id>B4</id>
+    <img>C:\Users\owner\Documents\School\IST 240\VendingMachine\VendingMachine\Pictures\combos.jpg</img>
+    <inventory>16</inventory>
+  </Snack>
+  <Snack>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Snack>
+  <Snack>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Snack>
+  <Snack>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Snack>
+  <Snack>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Snack>
+  <Snack>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Snack>
+  <Snack>
+    <price>0</price>
+    <inventory>0</inventory>
+  </Snack>
+</ArrayOfSnack>
